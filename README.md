@@ -10,7 +10,9 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
 
 2- 
 option1: https://archive.ics.uci.edu/dataset/1/abalone
+
 option2: https://archive.ics.uci.edu/dataset/728/toxicity-2
+
 option3: https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset
 
 il y'a d'autre option mais j'ai pensé ça sera pas mal.. il y a des trucs sur detection du cancer mais j'ai pensé ça sera un peu pessimiste haha
