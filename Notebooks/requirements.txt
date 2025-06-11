@@ -1,13 +1,31 @@
-matplotlib.pyplot
-seaborn
-plotly
-pandas
-numpy
+ipykernel~=6.29.5
+ipywidgets~=8.1.7
+numpy==2.2.6
+pandas==2.2.3
 
-sklearn
+#Visualisation
+matplotlib~=3.10.3
+seaborn~=0.13.2
+plotly==6.0.0
+
+#Dataset
+ucimlrepo==0.0.7
+
+#Machine Learning 
+scikit-learn~=1.7.0
+xgboost~=3.0.2
 
 #SHAP
-shap 
+shap~=0.47.2
 
 #ALE
-alibi
+alibi==0.9.6
+
+#Lime
+lime==0.2.0.1
+
+
+
+
+
+
