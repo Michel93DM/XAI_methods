@@ -24,6 +24,8 @@ alibi==0.9.6
 #Lime
 lime==0.2.0.1
 
+#LOFO
+lofo-importance==0.3.5
 
 
 
