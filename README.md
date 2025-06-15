@@ -16,7 +16,7 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
     - [x] Explications théoriques
     - [ ] Données challenge
     - [x] Données Parkinson
-  - [] ALE
+  - [ ] ALE
     - [x] Explications théoriques
     - [ ] Données challenge
     - [ ] Données Parkinson
@@ -29,6 +29,10 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
     - [ ] Données challenge
     - [ ] Données Parkinson
   - [ ] Anchors
+    - [ ] Explications théoriques
+    - [ ] Données challenge
+    - [ ] Données Parkinson
+  - [ ] LIME
     - [ ] Explications théoriques
     - [ ] Données challenge
     - [ ] Données Parkinson
