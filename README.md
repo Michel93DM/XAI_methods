@@ -4,9 +4,9 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
 
 ## TODO
 
-- [ ] Explications des jeux de données (dans le rapport)
-  - [ ] Données du challenge -> Appeler ça autrement 
-  - [ ] Parkinson telemonitoring
+- [x] Explications des jeux de données (dans le rapport)
+  - [x] Données du challenge -> Appeler ça autrement 
+  - [x] Parkinson telemonitoring
 - [ ] Remplir le rapport
   - [ ] SHAP
     - [x] Explications théoriques
