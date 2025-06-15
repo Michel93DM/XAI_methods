@@ -12,6 +12,7 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
     - [x] Explications théoriques
     - [ ] Données challenge
     - [x] Données Parkinson
+    - [ ] Tester les autres types de graphiques (decision plot et dependance plot)
   - [ ] PDP
     - [x] Explications théoriques
     - [ ] Données challenge
@@ -40,6 +41,7 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
 - [ ] Nettoyer notebooks (mettre fonction dans des fichiers Python + écrire analyses)
     - [ ] Données challenge
     - [ ] Données Parkinson
+- [ ] Est-ce qu'on ajoute aussi le package interpretml ?
 
 ## Datasets used
 
