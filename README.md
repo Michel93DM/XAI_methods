@@ -10,12 +10,12 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
 - [ ] Remplir le rapport
   - [ ] SHAP
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [x] Données Parkinson
     - [ ] Tester les autres types de graphiques (decision plot et dependance plot)
   - [ ] PDP
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [x] Données Parkinson
   - [ ] ALE
     - [x] Explications théoriques
