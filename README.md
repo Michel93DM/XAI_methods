@@ -19,11 +19,11 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
     - [x] Données Parkinson
   - [ ] ALE
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [ ] Données Parkinson
   - [ ] LOFO
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [ ] Données Parkinson
   - [ ] ICE
     - [x] Explications théoriques
