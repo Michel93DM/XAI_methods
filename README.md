@@ -28,15 +28,15 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
   - [ ] ICE
     - [x] Explications théoriques
     - [ ] Données challenge
-    - [ ] Données Parkinson
+    - [x] Données Parkinson
   - [ ] Anchors
     - [x] Explications théoriques
     - [ ] Données challenge
-    - [ ] Données Parkinson
+    - [x] Données Parkinson
   - [ ] LIME
     - [x] Explications théoriques
     - [ ] Données challenge
-    - [ ] Données Parkinson
+    - [x] Données Parkinson
 - [x] Faire un tableau récapitulatif des méthodes. Comparer local, global, rapidité, facilité d'implémentation, lister les packages Python, l'applicabilité à différents types de modèles (deep, sklearn + pipeline, autres)
 - [ ] Nettoyer notebooks (mettre fonction dans des fichiers Python + écrire analyses)
     - [ ] Données challenge
