@@ -10,38 +10,38 @@ Ce projet est realisé dans le cadre du Matser Spécialisé IA de confiance a Ce
 - [ ] Remplir le rapport
   - [ ] SHAP
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [x] Données Parkinson
     - [ ] Tester les autres types de graphiques (decision plot et dependance plot)
   - [ ] PDP
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [x] Données Parkinson
   - [ ] ALE
     - [x] Explications théoriques
-    - [ ] Données challenge
+    - [x] Données challenge
     - [ ] Données Parkinson
   - [ ] LOFO
-    - [ ] Explications théoriques
-    - [ ] Données challenge
+    - [x] Explications théoriques
+    - [x] Données challenge
     - [ ] Données Parkinson
   - [ ] ICE
-    - [ ] Explications théoriques
+    - [x] Explications théoriques
     - [ ] Données challenge
-    - [ ] Données Parkinson
+    - [x] Données Parkinson
   - [ ] Anchors
-    - [ ] Explications théoriques
+    - [x] Explications théoriques
     - [ ] Données challenge
-    - [ ] Données Parkinson
+    - [x] Données Parkinson
   - [ ] LIME
-    - [ ] Explications théoriques
+    - [x] Explications théoriques
     - [ ] Données challenge
-    - [ ] Données Parkinson
-- [ ] Faire un tableau récapitulatif des méthodes. Comparer local, global, rapidité, facilité d'implémentation, lister les packages Python, l'applicabilité à différents types de modèles (deep, sklearn + pipeline, autres)
+    - [x] Données Parkinson
+- [x] Faire un tableau récapitulatif des méthodes. Comparer local, global, rapidité, facilité d'implémentation, lister les packages Python, l'applicabilité à différents types de modèles (deep, sklearn + pipeline, autres)
 - [ ] Nettoyer notebooks (mettre fonction dans des fichiers Python + écrire analyses)
     - [ ] Données challenge
     - [ ] Données Parkinson
-- [ ] Est-ce qu'on ajoute aussi le package interpretml ?
+- [ ] Est-ce qu'on ajoute aussi le package interpretml ? Oui
 
 ## Datasets used
 
