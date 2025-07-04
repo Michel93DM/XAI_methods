@@ -26,6 +26,11 @@ Each Dataset is described in its corresponding Notebook.
 ## Xaplainable methods  
 In this work, we present the methods: 
 
+- Intrinsic models:
+    - Regression
+    - Decision Tree
+    - EBM
+
 - Global: 
   - Shap
   - PDP
