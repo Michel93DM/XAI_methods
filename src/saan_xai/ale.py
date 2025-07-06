@@ -3,9 +3,6 @@ import ipywidgets as widgets
 from IPython.display import display
 import numpy as np
 
-from PyALE import ale
-from alibi.explainers import ALE as AlibiALE
-
 def plot_ale_interactive(model, X_test, features=None, grid_size=50, include_CI=True, C=0.95, figsize=(8, 5)):
     """
     Displays an interactive widget to select a feature
@@ -34,6 +31,8 @@ def plot_ale_interactive(model, X_test, features=None, grid_size=50, include_CI=
     figsize : tuple, default=(8, 5)
         Size of the matplotlib figure.
     """
+    from PyALE import ale
+
     if features is None:
         features = list(X_test.columns)
     
@@ -84,6 +83,8 @@ def plot_alibi_ale_interactive(model, X_test, features=None, figsize=(8,5)):
     figsize : tuple, default=(8, 5)
         Size of the matplotlib figure.
     """
+    from alibi.explainers import ALE as AlibiALE
+
     if features is None and type(X_test) == np.ndarray:
         raise Exception("If X_test is not a dataframe, features cannot be None")
     elif features is None:

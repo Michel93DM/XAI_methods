@@ -4,44 +4,6 @@ import pandas as pd
 import ipywidgets as widgets
 from IPython.display import display, HTML
 
-def summary_plot(model, X: pd.DataFrame):
-    """
-    Generates a SHAP summary plot for a given model and input data.
-
-    This function uses SHAP (SHapley Additive exPlanations) to compute 
-    feature attributions for the predictions made by the provided model on the input dataset `X`. 
-    It then displays a summary plot showing the importance and effects of each feature.
-
-    Parameters
-    ----------
-    model : object
-        A trained model (e.g., a scikit-learn estimator, XGBoost, LightGBM, etc.) 
-        that supports the `predict` or `predict_proba` method.
-
-    X : pandas.DataFrame or numpy.ndarray
-        The input data on which SHAP values will be computed. 
-        Should match the feature format expected by the model.
-
-    Returns
-    -------
-    None
-        Displays a SHAP summary plot. Nothing is returned.
-    
-    Notes
-    -----
-    - The function automatically selects the appropriate SHAP explainer based on the model type.
-    - This visualization shows both the magnitude and direction of feature effects 
-      across all samples.
-
-    Example
-    -------
-    >>> summary_plot(trained_model, X_test)
-    """
-    explainer = shap.Explainer(model)
-    shap_values = explainer(X)
-
-    return shap.summary_plot(shap_values, features=X, feature_names=X.columns)
-
 
 def interactive_force_plot(model, X: pd.DataFrame):
     """
